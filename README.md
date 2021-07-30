@@ -1,4 +1,4 @@
-# Run
+# Run The Tracker (instruction)
 
 - `git clone https://github.com/shahinvx/EXP_People_Count.git (inside your drive Recomended)`
 - `Download model.weights https://drive.google.com/file/d/1iWUvwJ9lXgLPy_fpUPIYD11m8xOkjwJb/view?usp=sharing`
